@@ -1,0 +1,14 @@
+artifact_uri: ./mlruns/0/068c448076214fd28b892a5abd7815a7/artifacts
+end_time: 1556622596198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_uuid: 068c448076214fd28b892a5abd7815a7
+source_name: model.py
+source_type: 4
+source_version: 675d7a3e839693d6761c2ad343df76522b219f18
+start_time: 1556622595989
+status: 3
+tags: []
+user_id: jts
